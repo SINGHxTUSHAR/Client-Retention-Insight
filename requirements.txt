@@ -1,7 +1,10 @@
-tensorflow==2.15.0
+# tensorflow==2.15.0
+tensorflow>=2.15,<2.19
 scikit-learn
 tensorboard
 numpy
 pandas
 matplotlib
 streamlit
+pip>=25.0
+
