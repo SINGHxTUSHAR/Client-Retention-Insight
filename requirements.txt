@@ -7,4 +7,4 @@ pandas
 matplotlib
 streamlit
 pip>=25.0
-
+scikeras
